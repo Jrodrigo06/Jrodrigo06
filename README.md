@@ -1,5 +1,5 @@
 # About Me:
-I'm currently studying Data Science and Math at Northeastern!
+I'm currently studying Data Science and Math at Northeastern
 
 
 # What I've used and know!
