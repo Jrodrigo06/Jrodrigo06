@@ -1,5 +1,5 @@
 # About Me:
-I'm currently studying Data Science and Math at Northeastern! Here's my [portfolio](jerodrigo.com)
+I'm currently studying Data Science and Math at Northeastern! Here's my [portfolio]([jerodrigo.com](https://www.jerodrigo.com/))
 
 
 # What I've used and know!
