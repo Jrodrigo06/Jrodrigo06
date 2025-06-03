@@ -9,4 +9,4 @@ I'm currently studying Data Science and Math at Northeastern! Here's my [portfol
 ![](https://nirzak-streak-stats.vercel.app/?user=Jrodrigo06&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jrodrigo06&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
