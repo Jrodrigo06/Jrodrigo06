@@ -39,11 +39,11 @@ Trained a DQN to play blackjack about as well as you realistically can against t
 **Languages**
 
 ![Python](https://img.shields.io/badge/-Python-111?style=flat-square&logo=python&logoColor=FFDE57)
-![Go](https://img.shields.io/badge/-Go-111?style=flat-square&logo=go&logoColor=00ADD8)
+![Java](https://img.shields.io/badge/-Java-111?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![SQL](https://img.shields.io/badge/-SQL-111?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-111?style=flat-square&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-111?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/-SQL-111?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Java](https://img.shields.io/badge/-Java-111?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![Go](https://img.shields.io/badge/-Go-111?style=flat-square&logo=go&logoColor=00ADD8)
 ![C++](https://img.shields.io/badge/-C++-111?style=flat-square&logo=cplusplus&logoColor=00599C)
 
 </td>
